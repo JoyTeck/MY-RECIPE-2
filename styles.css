@@ -4,35 +4,40 @@
   box-sizing: border-box;
 }
 
+body {
+  background-color: pink;
+  background: radial-gradient(white, rgba(0, 0, 0, 0.2) 50%);
+  font-family: sans-serif;
+}
+
 h1 {
-  background: blue;
   text-align: center;
   font-family: cursive;
-  color: white;
+  border-radius: 50%;
 }
 
 p {
   text-align: center;
   font-family: times new roman;
   background: blue;
-  color: white;
 }
 
 h3 {
   padding: 10px 0 10px 0;
   color: blue;
-  background: wheat;
 }
 
 ul {
   padding: 10px 10px;
-  background: wheat;
 }
 
 a {
   text-decoration: none;
-  color: #9a15ff;
+  color: black;
 }
 
 img {
+  border-radius: 30%;
+  max-width: 75%;
+  height: auto;
 }
