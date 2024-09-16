@@ -1,0 +1,38 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  background: blue;
+  text-align: center;
+  font-family: cursive;
+  color: white;
+}
+
+p {
+  text-align: center;
+  font-family: times new roman;
+  background: blue;
+  color: white;
+}
+
+h3 {
+  padding: 10px 0 10px 0;
+  color: blue;
+  background: wheat;
+}
+
+ul {
+  padding: 10px 10px;
+  background: wheat;
+}
+
+a {
+  text-decoration: none;
+  color: #9a15ff;
+}
+
+img {
+}
